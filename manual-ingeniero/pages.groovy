@@ -1,1 +1,7 @@
 "README.md"
+"Login.md"
+"Ingeniero.md"
+"Proyectos.md"
+"Auditorias.md"
+"Egresos.md"
+"Movilizacion.md"
